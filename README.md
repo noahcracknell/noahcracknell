@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @noahcracknell
-- 👀 I’m interested in building businesses, health and wellness, and making the world a better place.
-- 🌱 I’m currently learning HTML, CSS, and Python
-- 💞️ I’m looking to collaborate on web development and data science projects.
+- 👀 I’m interested in health & fitness applications.
+- 🌱 I’m currently learning full-stack web development
 - 📫 How to reach me: noahcracknell@icloud.com
 
 <!---
